@@ -68,6 +68,4 @@ gradio>=4.0.0
 * No real-time pricing or availability comparison across stores
 * No user personalization or dietary preference handling
 
-## Conclusion
 
-FridgeAI simplifies everyday cooking decisions by bridging the gap between available ingredients and actionable meal ideas. It is designed as a practical tool for households to reduce food waste, save time, and plan meals efficiently.
